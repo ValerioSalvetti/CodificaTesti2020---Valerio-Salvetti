@@ -1,0 +1,6 @@
+overlap.xml:4: parser error : Opening and ending tag mismatch: cor line 4 and sic
+    <sic> <cor>testo scorretto</sic>
+                                    ^
+overlap.xml:6: parser error : Opening and ending tag mismatch: sic line 4 and cor
+    </cor>
+          
