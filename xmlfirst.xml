@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text>
+    il primo xml con validazione
+    <child>il figlio</child>
+    <sibiling>il fratello</sibiling>
+</text>
+
+<!-- Ho rimosso il tag di chiusura ecccedente </text> 
+        inserito un figlio e suo fratello, validato con xmillint-->
