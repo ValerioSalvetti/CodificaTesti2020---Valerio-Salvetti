@@ -1,0 +1,12 @@
+<!DOCTYPE TEI SYSTEM "provaesattributi.dtd" >
+
+<TEI>
+    <header type="intestazione">
+    </header>
+    <facsimile source=""> 
+    </facsimile>
+    <testo id="yo">
+        <seg>
+        </seg>
+    </testo>
+</TEI>
