@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd" >
+
+<TEI xmlns="http://www.teic.org/ns/1.0"> 
+
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+        </titleStmt>
+        <publicationStmt>
+        </publicationStmt>
+        <sourceDesc>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+
+<text>
+    <front>
+        <head>
+        LE AVVENTURE D'ALICE
+        NEL PAESE DELLE MERAVIGLIE.
+        </head>
+        PER
+        LEWIS CARROLL.
+
+TRADOTTE DALL'INGLESE DA
+T. PIETROCÒLA-ROSSETTI.
+
+CON 42 VIGNETTE DI GIOVANNI TENNIEL.
+
+Londra:
+MACMILLAN AND CO.
+1872.
+(Proprietà letteraria dell'autore.)
+
+LONDRA:
+R. CLAY, FIGLI, E TAYLOR, STAMPATORI,
+BREAD STREET HILL.
+    </front>
+    <body>
+        <p>
+        Alice cominciava a sentirsi mortalmente stanca di sedere sul poggio, accanto a sua sorella, senza far nulla: una o due volte aveva gittato lo sguardo sul libro che leggeva sua sorella, ma[2] non c'erano imagini nè dialoghi, <q>"e a che serve un libro,"</q> pensò Alice, <q>"senza imagini e dialoghi?"</q>
+        </p>
+        <p>
+        E andava fantasticando col suo cervello (come meglio poteva, perchè lo stellone l'avea resa sonnacchiosa e grullina), se il piacere di fare una ghirlanda di margherite valesse la noja di levarsi su, e cogliere i fiori, quand'ecco un Coniglio bianco con gli occhi di rubino le passò da vicino.
+        </p>
+        <p>
+        Davvero non c'era troppo da meravigliarsi di ciò, nè Alice pensò che fosse cosa troppo stravagante di sentire parlare il Coniglio, il quale diceva fra sè <q>"Oimè! Oimèi! ho fatto tardi!"</q> (quando se lo rammentò in seguito s'accorse che avrebbe dovuto meravigliarsene, ma allora le sembrò una cosa assai naturale): ma quando il Coniglio trasse un oriuolo dal taschino del panciotto, e vi affisò gli occhi, e scappò via, Alice saltò in piedi, perchè l'era venuto in mente ch'ella non avea mai veduto un Coniglio col panciotto e il suo rispettivo taschino, nè con un oriuolo da starvici dentro, e divorata dalla curiosità, traversò il campo[3] correndogli appresso, e giunse proprio a tempo di vederlo slanciarsi in una spaziosa conigliera, di sotto alla siepe.
+        </p>
+        <p>
+        In un altro istante, giù Alice scivolò, correndogli appresso, senza punto riflettere come mai avrebbe fatto per riuscirne fuori.
+        </p>
+        <p>
+        La buca della conigliera sfilava diritto come una galleria di tunnel, e poi s'inabissava tanto rapidamente che Alice non ebbe un solo istante per considerare se avesse potuto fermarsi, poichè si sentiva cader giù rotoloni in qualche precipizio che rassomigliava a un pozzo profondissimo.
+        </p>
+        <p>
+        Una delle due, o il pozzo era arci-profondo, o ella vi ruzzolava assai adagino, poichè ebbe tempo, mentre cadeva, di guardare tutto intorno, e stupiva pensando a ciò che le avverrebbe poi. Prima di tutto aguzzò la vista e cercò di vedere nel fondo per scoprire ciò che le accaderebbe, ma gli era bujo affatto e non ci si vedea punto: indi guardò alle pareti del pozzo ed osservò ch'erano ricoperte di credenze e di scaffali da libri; quà e là vide mappe e quadri che pendeano[4] da' chiodi. Andando giù prese di volo un vasettino che aveva un cartello, lo lesse: "CONSERVA D'ARANCE," ma oimè! era vuoto e restò delusa: non volle lasciar cadere il vasettino per non ammazzare chi era in fondo, e andando sempre giù lo depose in un'altra credenza.
+        </p>
+        <p>
+        "Bene," pensò Alice, "dopo una caduta tale, mi parrà proprio un niente il ruzzolare per le scale! A casa poi, come mi crederanno coraggiosa! D'ora innanzi, ancorchè cadessi dal tetto, non ne farei caso!" (E probabilmente dicea la verità.)
+        </p>
+    </body>
+</text>
+</TEI>
