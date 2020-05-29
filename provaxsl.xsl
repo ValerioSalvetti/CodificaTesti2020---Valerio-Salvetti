@@ -4,6 +4,19 @@
         xmlns:tei="http://www.tei-c.org/ns/1.0">
 <xsl:output method="html" encoding="UTF-8" indent="yes" omit-xml-declaration="yes"/>
 
+    <xsl:template match="/tei:TEI">
+        <html>
+            <head>
+                <title>
+                    <xsl:value-of select="tei:TEI/teiHeader/fileDesc/titleStmt/title"/>
+                </title>
+            </head>
+             <body>
+                    <xsl:apply-templates />
+            </body> 
+        </html>
+    </xsl:template>
+
     <xsl:template match="tei:teiHeader">
         <h1>Informazioni sul documento</h1>
             <xsl:apply-templates />
